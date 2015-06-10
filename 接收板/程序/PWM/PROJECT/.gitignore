@@ -1,0 +1,9 @@
+#KEIL¹¤³Ì
+/OUTPUT
+JLinkLog.txt
+*.ini
+*.plg
+*.uvopt
+*.Administrator
+*.bak
+*.dep
